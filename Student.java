@@ -1,4 +1,4 @@
-package task2.model;
+
 
 public class Student {
     private int id;
@@ -48,3 +48,4 @@ public class Student {
                 '}';
     }
 }
+
