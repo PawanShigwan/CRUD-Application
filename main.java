@@ -1,5 +1,4 @@
-
-import task2.model.Student;
+package task2;
 import java.util.*;
 
 class crud
@@ -73,4 +72,5 @@ public class main {
         }
     }
 }
+
 
