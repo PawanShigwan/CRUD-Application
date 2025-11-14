@@ -1,4 +1,3 @@
-package task2;
 
 import task2.model.Student;
 import java.util.*;
@@ -74,3 +73,4 @@ public class main {
         }
     }
 }
+
